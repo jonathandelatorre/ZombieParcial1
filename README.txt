@@ -1,2 +1,2 @@
-Vesión 1.0 del Trabajo Parcial de Soluciones Moviles.
+Vesiones del Trabajo Parcial de Soluciones Moviles en formato .apk .
 
